@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="parse_app_id">8d06aa32-191c-4227-a51d-3688bcf65664</string>
+    <string name="parse_server_url">https://parse.buddy.com/parse</string>
+</resources>
